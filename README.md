@@ -1,5 +1,5 @@
 ## Coursera_DataCleaning_PA3 Tidy Mean and Standard Deviation Data from the UCI HAR Data Set
-This repository contains all documents necessary to complete the programming assignment for Coursera's Data Cleaning course by the phenomenal Jeffrey Peng! 
+This repository contains all documents necessary to complete the programming assignment for Coursera's Data Cleaning course by the phenomenal Roger Peng! 
 
 ## The Data
 
