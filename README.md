@@ -1,5 +1,7 @@
+###Readme-file
+
 ## Coursera_DataCleaning_PA3 Tidy Mean and Standard Deviation Data from the UCI HAR Data Set
-This repository contains all documents necessary to complete the programming assignment for Coursera's Data Cleaning course by the phenomenal Roger Peng! 
+The repository "Coursera-DataCleaning_PA3" contains all documents necessary to complete the programming assignment for Coursera's Data Cleaning course by the phenomenal Roger Peng! This readme file tracks changes made to the original data set.
 
 ## The Data
 
@@ -12,11 +14,9 @@ More information about the data can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ## The Script
 This repository contains a script called `run_analysis.R`.
-### Requirements
+## Requirements
 The data files should be in the working directory when you run the script.
-
 ## Assignment instructions, i.e. changes applied to the original data set above.
-
 Read files.
 ``` R
 #Read  trainings files
